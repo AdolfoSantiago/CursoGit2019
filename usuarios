@@ -1,2 +1,7 @@
 Hola Mundo!
+<<<<<<< HEAD
 echo Generar conflicto en repor
+=======
+
+Estoy en el curso de GiT
+>>>>>>> 0e0cd8aa445f3d47606d59ce5a95850dd4e4a569
